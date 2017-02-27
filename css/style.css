@@ -160,7 +160,7 @@ section h2
 #skills h2
 {
     margin-bottom: 60px;
-    color: #b3d9ff;
+    color: ;
 }
 #skills .skill-box
 {
@@ -174,7 +174,7 @@ section h2
     -webkit-border-radius: 4px;
        -moz-border-radius: 4px;
             border-radius: 4px;
-    background-color: #b3d9ff;
+    background-color: #ffffff;
 }
 #skills i
 {
@@ -292,7 +292,11 @@ section h2
     content: '';
 }
 〜〜
-
+#contact
+{
+    width:100%;
+    
+}
 #contact ul
 {
     margin-top: 60px;
